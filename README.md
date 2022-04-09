@@ -22,10 +22,18 @@
 ![]()
 
 #### The average math score for each grade level from each school
-
+##### Thomas High School 9th grade students have a NaN value represented in the dataframe for Math Scores due to the data being removed from the anaylsis.
+![]()
 #### The average reading score for each grade level from each school
-
-#### The scores by school spending per student, by school size, and by school type
-
+##### Thomas High School 9th grade students have a NaN value represented in the dataframe for Reading Scores due to the data being removed from the anaylsis.
+![]()
+#### Scores by school spending per student, by school size, and by school type
+##### The scores by school spending per student did not differ between the original data and the data excluding Thomas High School 9th graders.
+##### The scores by school size did not differ between the original data and the data excluding Thomas High School 9th graders.
+##### The scores by school type did not differ between the original data and the data excluding Thomas High School 9th graders.
+![]()
+![]()
+![]()
+---
 ## Summary
 #### The results above show that the testing scores from the 9th grader students at Thomas High School skewed the data. This may not have been as obvious if the dataframe for the school data summary had been formatted to one decimal place or no decimal at all. Both reading and math scores for Thomas are slightly different as well as the percentages for math and reading due to the altered number of students represented in the data.

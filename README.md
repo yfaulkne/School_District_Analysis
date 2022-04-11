@@ -34,12 +34,17 @@
 ##### Thomas High School 9th grade students have a NaN value represented in the dataframe for Reading Scores due to the data being removed from the anaylsis.
 ![](https://github.com/yfaulkne/School_District_Analysis/blob/main/Resources/Reading_Scores_by_Grade.PNG)
 #### Scores by school spending per student, by school size, and by school type
-##### The scores by school spending per student did not differ between the original data and the data excluding Thomas High School 9th graders.
-##### The scores by school size did not differ between the original data and the data excluding Thomas High School 9th graders.
-##### The scores by school type did not differ between the original data and the data excluding Thomas High School 9th graders.
-![]()
-![]()
-![]()
+#####
+* The scores by school spending per student did not differ between the original data and the data excluding Thomas High School 9th graders.
+ ---
+![](https://github.com/yfaulkne/School_District_Analysis/blob/main/Resources/ScoresbySchoolSpending.PNG)
+* The scores by school size did not differ between the original data and the data excluding Thomas High School 9th graders.
+---
+![](https://github.com/yfaulkne/School_District_Analysis/blob/main/Resources/ScoresbySchoolSize.PNG)
+---
+* The scores by school type did not differ between the original data and the data excluding Thomas High School 9th graders.
+---
+![](https://github.com/yfaulkne/School_District_Analysis/blob/main/Resources/ScoresbySchoolType.PNG)
 ---
 ## Summary
-#### The results above show that the testing scores from the 9th grader students at Thomas High School skewed the data by a small margin. This may not have been as obvious if the dataframe for the school data summary had been formatted to one decimal place or no decimal at all. In a dataset such as this, every percentage point counts when it comes to comparing and contrasting to other schools. The data could have been altered more heavily if the school population of Thomas High hadn't been re-calculated to exclude the 9th graders for the challenge. Both reading and math scores for Thomas are slightly different as well as the percentages for math and reading due to the altered number of students represented in the data.
+#### All of the results above show that the testing scores from the 9th grader students at Thomas High School skewed the data by a small margin. This may not have been as obvious if the dataframe for the school data summary had been formatted to one decimal place or no decimal at all. In a dataset such as this, every percentage point counts when it comes to comparing and contrasting to other schools. The data could have been altered more heavily if the school population of Thomas High hadn't been re-calculated to exclude the 9th graders for the challenge. Both reading and math scores for Thomas are slightly different as well as the percentages for math and reading due to the altered number of students represented in the data.
